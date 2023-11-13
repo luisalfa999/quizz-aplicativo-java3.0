@@ -8,7 +8,7 @@
 }
 
 body{
-    background: rgb(90, 0, 187);
+    background: rgb(0, 0, 255);
 }
 
 ::selection{
@@ -40,7 +40,7 @@ body{
 .start_btn button{
     font-size: 25px;
     font-weight: 500;
-    color: #007bff;
+    color: #FFFF00;
     padding: 15px 30px;
     outline: none;
     border: none;
@@ -51,7 +51,7 @@ body{
 }
 .start_btn button:hover{
     transform: scale(1.5);
-    color: rgb(90, 0, 187);
+    color: rgb(0, 255, 0);
 }
 
 .info_box{
@@ -141,7 +141,7 @@ body{
 }
 
 .quiz_box header .timer{
-    color: #004085;
+    color: #00FFFF;
     background: #cce5ff;
     border: 1px solid #b8daff;
     height: 45px;
@@ -328,7 +328,7 @@ footer button.show{
 
 .result_box .icon{
     font-size: 100px;
-    color: #007bff;
+    color: #808080;
     margin-bottom: 10px;
 }
 
